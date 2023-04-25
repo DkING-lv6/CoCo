@@ -5,7 +5,7 @@ Detailed parameter settings and implementation can be found in "Paper details of
 This repository is based on [ReMERT-pytorch](https://github.com/AIDefender/MyDiscor)[1]. 
 
 CoCo contains two weights:
-1. CoCo_si  The corresponding code can be found in "CoCo/discor/algorithm/discor.py"
+1. CoCo_sc  The corresponding code can be found in "CoCo/discor/algorithm/discor.py"
 2. CoCo_im  The corresponding code can be found in "CoCo/discor/algorithm/discor.py" and "CoCo/discor/network.py"
 
 ## Setup (refer to DisCor[2])
